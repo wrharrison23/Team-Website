@@ -1,0 +1,22 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    font-size: 2em;
+    background: url(Images/download.jpg); /*center center/cover no-repeat; */
+    padding-top: 2rem;
+}
+
+.head {
+    text-align: center;
+    font-family: 'Langar', cursive;
+}
+
+html {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #494949;
+    color: #f4c20c;
+}
+
+aside {
+    width: 35vw;
+}
